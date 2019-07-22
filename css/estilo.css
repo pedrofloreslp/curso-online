@@ -1,0 +1,14 @@
+tr.selected {
+    background: #dedede !important;
+}
+.invisible {
+    display: none;
+}
+
+.visible {
+    display: block-table;
+}
+
+li.selected {
+    background: #212529 !important;
+}
